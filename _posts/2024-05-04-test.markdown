@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Num 1
 date: 2017-05-04 13:32:20 +0300
 description: Just a test. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
