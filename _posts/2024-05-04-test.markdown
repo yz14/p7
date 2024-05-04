@@ -8,4 +8,4 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-Just a test. 这是一个测试。
+Just a test.
